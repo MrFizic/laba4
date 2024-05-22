@@ -1,1 +1,1 @@
-Test 3234k
+\mainpage Test 3234k
