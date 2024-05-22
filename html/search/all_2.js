@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['division_0',['Division',['../classmain_1_1_division.html',1,'main']]]
+  ['calculator_0',['Calculator',['../classmain_1_1_calculator.html',1,'main']]]
 ];
